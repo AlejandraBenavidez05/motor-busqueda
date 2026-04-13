@@ -54,8 +54,8 @@ numpy
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<tu-usuario>/motor-busqueda-tfidf.git
-cd motor-busqueda-tfidf
+git clone https://github.com/AlejandraBenavidez05/motor-busqueda.git
+cd motor-busqueda
 ```
 
 ### 2. Crear entorno virtual (recomendado)
